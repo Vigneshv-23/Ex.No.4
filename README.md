@@ -141,11 +141,11 @@ Adaptive learning changes lessons depending on the student’s level. For instan
 
 | Prompt Type                 | ChatGPT Clarity | ChatGPT Relevance | ChatGPT Completeness | Gemini Clarity | Gemini Relevance | Gemini Completeness |
 | --------------------------- | --------------- | ----------------- | -------------------- | -------------- | ---------------- | ------------------- |
-| Comparative Analysis        | 5               | 5                 | 5                    | 4              | 5                | 4                   |
-| Experiential Perspective    | 5               | 5                 | 5                    | 4              | 4                | 4                   |
-| Everyday Functioning        | 5               | 5                 | 5                    | 4              | 4                | 4                   |
-| Universal Prompt Structures | 5               | 5                 | 5                    | 4              | 4                | 4                   |
-| Prompt Size Limitations     | 5               | 5                 | 5                    | 4              | 4                | 4                   |
+| Comparative Analysis        | 5               | 5                 | 4                    | 4              | 5                | 4                   |
+| Experiential Perspective    | 4               | 4                 | 5                    | 4              | 4                | 4                   |
+| Everyday Functioning        | 5               | 5                 | 5                    | 4              | 4                | 5                   |
+| Universal Prompt Structures | 4               | 5                 | 5                    | 5              | 5                | 4                   |
+| Prompt Size Limitations     | 5               | 5                 | 5                    | 4              | 4                | 5                   |
 
 ---
 
